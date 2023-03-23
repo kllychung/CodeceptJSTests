@@ -12,6 +12,7 @@ To get started developing right away:
 - Screenshots of failed tests run will appear under output folder
 
 ## What You're Getting
+```bash
 
 ├── README.md - This file.
 ├── package.json # npm package manager file. Contains scripts to run tests
@@ -21,8 +22,7 @@ To get started developing right away:
 │   ├── boardgamegeek_test.js
 │   ├── cleartrip_test.js
 │   └── fourModules_test.js
-
-
+```
 
 ## TO DO
 1. Tie and Organize tests with step definition
